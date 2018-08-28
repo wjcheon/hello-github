@@ -1,5 +1,10 @@
 # hello git
 
-# properly working? 
+# git command
+	- clone 
+	- add
+	- commit
+	- push 
+	- checkout
  		
  		 
