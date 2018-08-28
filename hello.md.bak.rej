@@ -1,0 +1,19 @@
+diff a/hello.md.bak b/hello.md.bak	(rejected hunks)
+@@ -1 +0,14 @@
+-# hello git 
+\ No newline at end of file
++# hello git
++
++# git ��ɾ� ���  
++ 		-clone  
++ 		-add 
++ 		-commit
++ 		-push
++ 		
++ 		
++# checkout: ������ �������� ���ư��� 
++
++�� �ʹ� ������ 
++ 		
++ 		 
+\ No newline at end of file

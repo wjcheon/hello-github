@@ -1,0 +1,14 @@
+diff a/hello.md b/hello.md	(rejected hunks)
+@@ -1,9 +1,6 @@
+ # hello git
+ 
+-# git ��ɾ� ���  
+- 		-clone  
+- 		-add 
+- 		-commit
+- 		-push
++�����Ӥ����̳���'���Ƥä�
++
+  		
+  		 
+\ No newline at end of file
