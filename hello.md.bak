@@ -18,3 +18,8 @@
 	- The case that master branch does  not have any change 
 
 
+<<<<<<< HEAD
+# verion2.1
+=======
+# version2.2
+>>>>>>> version2.2
