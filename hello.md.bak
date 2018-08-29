@@ -1,13 +1,14 @@
 # hello git
 
-<<<<<<< HEAD
-# properly working? 
-=======
-# git 명령어 요약  
- 		-clone  
- 		-add 
- 		-commit
- 		-push
->>>>>>> version3
+# git command
+	- clone 
+	- add
+	- commit
+	- push 
+	- checkout
  		
  		 
+# brach change
+		-What is branch 
+		-Checkout: Drawback specific commit or brach
+		-Cehckout in source tree: double-click the branch

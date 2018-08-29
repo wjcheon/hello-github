@@ -12,3 +12,7 @@
 		-What is branch 
 		-Checkout: Drawback specific commit or brach
 		-Cehckout in source tree: double-click the branch
+		
+
+# Fast forward in merge 
+	- The case that master branch does  not have any change 
