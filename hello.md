@@ -22,3 +22,5 @@
 # verion2.1
 # version2.2
 
+# Solve the conflicts
+	- Don't be afraid 
