@@ -24,3 +24,8 @@
 
 # Solve the conflicts
 	- Don't be afraid 
+
+
+# Solve the conflicts2
+	- Don't be afraid2
+	 
